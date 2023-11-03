@@ -1,0 +1,13 @@
+.errorImg{
+    /* border: 1px solid red; */
+    width: 50% !important;
+    margin: auto;
+}
+
+.colCard{
+    height: 200px;
+    width: 18rem;
+    border: 2px solid rgb(245, 31, 31);
+    border-radius: 10px;
+    margin: 10px;
+}
